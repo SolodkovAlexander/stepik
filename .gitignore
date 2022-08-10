@@ -1,0 +1,7 @@
+*.autosave
+*.pro.user
+*/debug*
+*/release*
+build*
+build-*
+bin/*
